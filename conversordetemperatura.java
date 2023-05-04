@@ -1,8 +1,7 @@
-ackage pct;
 
 import java.util.Scanner;
 
-public class Celfah {
+public class conversordetemperatura {
 	public class Conversor {
 		public static void main(String[] args) {
 			//Declaração de variáveis
